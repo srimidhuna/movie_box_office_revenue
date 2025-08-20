@@ -63,6 +63,9 @@ Blue dots = Movies (actual data)
 
 Red line = Best Fit Line (predicted relationship)
 
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/401f48ad-1521-4a88-b90d-cd1355a1c81a" />
+
+
 💡 Insights
 
 There is a positive correlation between marketing spend and box office revenue.
