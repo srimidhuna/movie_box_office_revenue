@@ -16,13 +16,14 @@ Box_Office_Revenue_Cr → Box office revenue in Crores (₹ Cr)
 ⚙️ Instructions to Run
 1. Clone Repository
 git clone https://github.com/srimidhuna/movie_box_office_revenue.git
+
 cd movie_box_office_revenue
 
-2. Create Virtual Environment
+3. Create Virtual Environment
 conda create -n revenue python=3.10 -y
 conda activate revenue
 
-3. Install Requirements
+4. Install Requirements
 pip install -r requirements.txt
 
 Open task.ipynb to explore step by step.
